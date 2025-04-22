@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<img align='right' src='https://github.com/Fabri2505/Fabri2505/blob/main/defunktocat.png' width='25%'>
-
-<img align='right' src='https://octodex.github.com/images/spidertocat.png' width='25%'>
+<img align="right" src="https://github.com/Fabri2505/Fabri2505/blob/main/defunktocat.png" width="25%">
 <!--
 **Fabri2505/Fabri2505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
