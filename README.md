@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-<img align="right" src="https://github.com/Fabri2505/Fabri2505/blob/main/defunktocat.png" width="25%">
-<!--
-**Fabri2505/Fabri2505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--<img align="right" src="https://github.com/Fabri2505/Fabri2505/blob/main/defunktocat.png" width="25%">-->
+
+
+# Bienvenido a mi github
+<img width="250px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVjNG40M2F0ZXIwcGs4MWRxY3JpYXpybzh4cGd1cTVlMmI5YnUxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" />
 
 Here are some ideas to get you started:
 
