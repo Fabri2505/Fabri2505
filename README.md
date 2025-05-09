@@ -4,7 +4,7 @@
 
 
 # Bienvenido a mi github
-<div style="text-align:center">
+<div align="center" style="text-align:center">
     <img 
     style="width:250px" 
     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVjNG40M2F0ZXIwcGs4MWRxY3JpYXpybzh4cGd1cTVlMmI5YnUxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" 
@@ -13,7 +13,7 @@
 
 
 
-<div style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px">
+<div align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px">
     <img 
     src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" 
     />
