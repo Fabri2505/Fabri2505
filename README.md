@@ -60,6 +60,9 @@
     <img 
     src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" 
     />
+    <img 
+    src="https://img.shields.io/badge/podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" 
+    />
 </div>
 
 Here are some ideas to get you started:
