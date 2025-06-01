@@ -1,7 +1,5 @@
-## Hi there 👋
 
 <!--<img align="right" src="https://github.com/Fabri2505/Fabri2505/blob/main/defunktocat.png" width="25%">-->
-
 
 # Bienvenido a mi github
 <div align="center" style="text-align:center">
