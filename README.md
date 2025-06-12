@@ -1,7 +1,7 @@
 
 <!--<img align="right" src="https://github.com/Fabri2505/Fabri2505/blob/main/defunktocat.png" width="25%">-->
 
-# ¡Hola! 👋 Soy Fabricio Cervantes Mendoza
+# ¡Hola! 👋 Soy Fabricio Cervantes
 <!--
 <div align="center" style="text-align:center">
     <img 
