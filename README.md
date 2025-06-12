@@ -13,7 +13,7 @@
 ![Fabricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabri2505&show_icons=true)
 -->
 
-## 🚀 Sobre mí
+<!--## 🚀 Sobre mí-->
 <img align="right" style="width:250px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVjNG40M2F0ZXIwcGs4MWRxY3JpYXpybzh4cGd1cTVlMmI5YnUxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" />
 
 **Técnico en Ingeniería de Software con Inteligencia Artificial** y estudiante universitario de Ingeniería, con experiencia sólida en desarrollo colaborativo full-stack. Me apasiona crear soluciones tecnológicas que generen impacto real en los negocios.
