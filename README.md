@@ -1,7 +1,8 @@
 
 <!--<img align="right" src="https://github.com/Fabri2505/Fabri2505/blob/main/defunktocat.png" width="25%">-->
 
-# Bienvenido a mi github
+# ¡Hola! 👋 Soy Fabricio Cervantes Mendoza
+<!--
 <div align="center" style="text-align:center">
     <img 
     style="width:250px" 
@@ -9,8 +10,19 @@
     />
 </div>
 
+![Fabricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabri2505&show_icons=true)
+-->
+
+## 🚀 Sobre mí
+<img align="right" style="width:250px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVjNG40M2F0ZXIwcGs4MWRxY3JpYXpybzh4cGd1cTVlMmI5YnUxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" />
+
+**Técnico en Ingeniería de Software con Inteligencia Artificial** y estudiante universitario de Ingeniería, con experiencia sólida en desarrollo colaborativo full-stack. Me apasiona crear soluciones tecnológicas que generen impacto real en los negocios.
 
 
+
+## 💻 Stack Tecnológico
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabri2505)](https://github.com/Fabri2505/github-readme-stats)-->
 <div align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px">
     <img 
     src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" 
@@ -63,14 +75,27 @@
     />
 </div>
 
-Here are some ideas to get you started:
+## 🎯 Mi Enfoque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ **Versatilidad tecnológica** - Me adapto rápidamente a nuevas herramientas y frameworks
+
+📊 **Análisis orientado a resultados** - Cada línea de código tiene un propósito de negocio
+
+🤝 **Trabajo en equipo** - Experiencia en equipos multidisciplinarios y desarrollo colaborativo
+
+## 🌟 Objetivos
+
+Contribuir al crecimiento empresarial mediante la implementación de **soluciones tecnológicas innovadoras** que:
+- 🔧 Optimicen procesos existentes
+- 📈 Incrementen la productividad
+- 💡 Generen valor tangible para el negocio
+
+## 🔍 Actualmente
+
+- 📚 Continuando mis estudios universitarios en Ingeniería
+- 🌱 Desarrollando competencias en entornos profesionales desafiantes
+- 🤖 Explorando las últimas tendencias en IA y desarrollo de software
+
+## 📫 Conectemos
+
+¿Tienes un proyecto interesante? ¡Me encantaría conocer más!
