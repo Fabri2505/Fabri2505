@@ -79,6 +79,7 @@
 ![Fabri2505's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabri2505&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabri2505&layout=compact)    
 </div>
+
 ## 🎯 Mi Enfoque
 
 ✨ **Versatilidad tecnológica** - Me adapto rápidamente a nuevas herramientas y frameworks
