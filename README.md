@@ -9,7 +9,7 @@
     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVjNG40M2F0ZXIwcGs4MWRxY3JpYXpybzh4cGd1cTVlMmI5YnUxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" 
     />
 </div>-->
-
+<img src="https://komarev.com/ghpvc/?username=Fabri2505&color=blueviolet"/>
 <!--## 🚀 Sobre mí-->
 <img align="right" style="width:250px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVjNG40M2F0ZXIwcGs4MWRxY3JpYXpybzh4cGd1cTVlMmI5YnUxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" />
 
